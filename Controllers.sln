@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Controllers", "Controllers\Controllers.vcxproj", "{E269A835-E4BA-4F2D-B4D3-991188795BB4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Control", "Control\Control.vcxproj", "{CA2CEC97-78DE-4F61-8572-359FDC5AA6F6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graphics", "Graphics\Graphics.vcxproj", "{89E3B252-C387-4715-8651-71EE751E0304}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EventEngine", "EventEngine\EventEngine.vcxproj", "{C9938BC5-038F-4267-AB23-A4E5D25388BE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Label", "Label\Label.vcxproj", "{6D76B48D-D42B-43C8-90C6-F95DC4B30666}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Panel", "Panel\Panel.vcxproj", "{F9FB4901-13C7-4ED2-84CF-2DAD1D0A7088}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextBox", "TextBox\TextBox.vcxproj", "{2DB3746E-4CE0-40ED-8BBA-8CFCBF5B530C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E269A835-E4BA-4F2D-B4D3-991188795BB4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E269A835-E4BA-4F2D-B4D3-991188795BB4}.Debug|Win32.Build.0 = Debug|Win32
+		{E269A835-E4BA-4F2D-B4D3-991188795BB4}.Release|Win32.ActiveCfg = Release|Win32
+		{E269A835-E4BA-4F2D-B4D3-991188795BB4}.Release|Win32.Build.0 = Release|Win32
+		{CA2CEC97-78DE-4F61-8572-359FDC5AA6F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA2CEC97-78DE-4F61-8572-359FDC5AA6F6}.Debug|Win32.Build.0 = Debug|Win32
+		{CA2CEC97-78DE-4F61-8572-359FDC5AA6F6}.Release|Win32.ActiveCfg = Release|Win32
+		{CA2CEC97-78DE-4F61-8572-359FDC5AA6F6}.Release|Win32.Build.0 = Release|Win32
+		{89E3B252-C387-4715-8651-71EE751E0304}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89E3B252-C387-4715-8651-71EE751E0304}.Debug|Win32.Build.0 = Debug|Win32
+		{89E3B252-C387-4715-8651-71EE751E0304}.Release|Win32.ActiveCfg = Release|Win32
+		{89E3B252-C387-4715-8651-71EE751E0304}.Release|Win32.Build.0 = Release|Win32
+		{C9938BC5-038F-4267-AB23-A4E5D25388BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9938BC5-038F-4267-AB23-A4E5D25388BE}.Debug|Win32.Build.0 = Debug|Win32
+		{C9938BC5-038F-4267-AB23-A4E5D25388BE}.Release|Win32.ActiveCfg = Release|Win32
+		{C9938BC5-038F-4267-AB23-A4E5D25388BE}.Release|Win32.Build.0 = Release|Win32
+		{6D76B48D-D42B-43C8-90C6-F95DC4B30666}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D76B48D-D42B-43C8-90C6-F95DC4B30666}.Debug|Win32.Build.0 = Debug|Win32
+		{6D76B48D-D42B-43C8-90C6-F95DC4B30666}.Release|Win32.ActiveCfg = Release|Win32
+		{6D76B48D-D42B-43C8-90C6-F95DC4B30666}.Release|Win32.Build.0 = Release|Win32
+		{F9FB4901-13C7-4ED2-84CF-2DAD1D0A7088}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F9FB4901-13C7-4ED2-84CF-2DAD1D0A7088}.Debug|Win32.Build.0 = Debug|Win32
+		{F9FB4901-13C7-4ED2-84CF-2DAD1D0A7088}.Release|Win32.ActiveCfg = Release|Win32
+		{F9FB4901-13C7-4ED2-84CF-2DAD1D0A7088}.Release|Win32.Build.0 = Release|Win32
+		{2DB3746E-4CE0-40ED-8BBA-8CFCBF5B530C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2DB3746E-4CE0-40ED-8BBA-8CFCBF5B530C}.Debug|Win32.Build.0 = Debug|Win32
+		{2DB3746E-4CE0-40ED-8BBA-8CFCBF5B530C}.Release|Win32.ActiveCfg = Release|Win32
+		{2DB3746E-4CE0-40ED-8BBA-8CFCBF5B530C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
